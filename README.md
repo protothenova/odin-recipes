@@ -1,0 +1,1 @@
+The goal of this website is to create a list of recipes using HTML and GIT. This website is a showcase of my current knowledge of HTML tags and how best to apply them, how to set up a website's file structure, and how to link to other websites. It also demonstrates my current GIT skills, by using the tools included to publish all of this to a Github page.
